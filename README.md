@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarya Bhatt</h1>
-<h3 align="center">A passionate Software Developer and have a high interest in Data Science</h3>
+<h3 align="center">A passionate Software Developer and having a high interest in Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryabhatt9&label=Profile%20views&color=0e75b6&style=flat" alt="aaryabhatt9" /> </p>
 
