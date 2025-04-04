@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aarya Bhatt</h1>
 <h3 align="center">A passionate Software Developer and having a high interest in Data Science</h3>
+<h3> Distributed is the new centralized!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryabhatt9&label=Profile%20views&color=0e75b6&style=flat" alt="aaryabhatt9" /> </p>
 
-- 📫 How to reach me **aaryabhatt192@gmail.com**
+- 📫 How to reach me **aaryabhatt1902@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
