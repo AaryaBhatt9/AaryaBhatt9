@@ -16,4 +16,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryabhatt9&show_icons=true&locale=en&layout=compact" alt="aaryabhatt9" /></p>
 
-[![Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryaBhatt9)](https://github.com/AaryaBhatt9/github-readme-stats)
+[![Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryaBhatt9)](https://github.com/AaryaBhatt9/github-readme-stats)  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AaryaBhatt9)](https://git.io/streak-stats)
